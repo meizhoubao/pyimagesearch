@@ -1,5 +1,8 @@
 *.pyc
 *.zip
 *.swp
+*.txt
 Pokedex/pokedex-find-screen-part-1/*
 Pokedex/comparing-shape-features/*
+deep-learning-with-opencv/bvlc_googlenet.caffemodel
+deep-learning-with-opencv/bvlc_googlenet.prototxt
